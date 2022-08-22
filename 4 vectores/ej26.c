@@ -40,5 +40,5 @@ int main() {
   }
   system("pause");
   system("cls");
-  printf("El competidor ganador es el %d\n", ganador + 1,);
+  printf("El competidor ganador es el %d\n", ganador + 1);
 }

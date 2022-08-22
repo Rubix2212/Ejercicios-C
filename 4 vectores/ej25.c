@@ -27,7 +27,7 @@ int main() {
       nota_min = nota[i];
       pos_min = i;
     }
-    i++;1
+    i++;
   }
 
   i = 0;
